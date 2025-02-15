@@ -1,0 +1,17 @@
+
+
+
+.infoContent{
+    
+    @media (max-width:1400px) {
+        right:  1rem !important;
+    }
+}
+
+.styleText {
+    -webkit-background-clip: text;
+    background-image: conic-gradient(#ed0101, blue);
+    pointer-events: none;
+    mix-blend-mode: difference;
+    filter: drop-shadow(2px 4px 6px black);
+}
